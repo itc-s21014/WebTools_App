@@ -42,7 +42,7 @@
   align-items: center;
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 400px;
+  font-weight: 400;
   font-size: 48px;
   line-height: 58px;
   color: #000000;
@@ -60,7 +60,7 @@
   height: 48px;
   width: 214px;
   align-items: center;
-  font-weight: 400px;
+  font-weight: 400;
   font-size: 48px;
   color: #000000;
 }
